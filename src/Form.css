@@ -1,0 +1,58 @@
+.frm{
+    background-color: skyblue;
+    height: 80vh;
+    width: 60vw;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid blue;
+    
+}
+
+.inp{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+.inp input{
+width: 20vw;
+height: 30px;
+border-radius: 4px;
+font-size: 20px;
+border: 1px solid white;
+text-align: center;
+margin-bottom: 20px;
+
+}
+
+.inp label{
+    color: blue;
+}
+
+.fo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100px;
+    padding: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
